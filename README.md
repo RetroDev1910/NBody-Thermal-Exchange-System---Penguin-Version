@@ -1,6 +1,7 @@
 # NBody-Thermal-Exchange-System - Penguin Version
 
 A Linux Version of wmc23nhj09's software
+
 A program written in C++ using SDL3 that shows the laws of thermodynamics, showing exchange between objects via conduction and radiation. 
 
 ## OVERVIEW
@@ -10,7 +11,7 @@ This project includes blackbody radiation colour mapping to simulate how an obje
 
 ## CONTROLS
 
-Q - Change Modes
+Q - Change Mode
 E - Destroy Mode
 
 Green - Create Mode
@@ -53,8 +54,6 @@ Red - Destroy Mode
 
 ## REQUIREMENTS
 
-* SDL3
-* Visual Studio 2022+
 * C++ 17 or newer
 
 ## BUILD
