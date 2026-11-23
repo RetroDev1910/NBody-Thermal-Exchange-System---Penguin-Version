@@ -1,5 +1,6 @@
-# NBody-Thermal-Exchange-System
+# NBody-Thermal-Exchange-System - Penguin Version
 
+A Linux Version of wmc23nhj09's software
 A program written in C++ using SDL3 that shows the laws of thermodynamics, showing exchange between objects via conduction and radiation. 
 
 ## OVERVIEW
