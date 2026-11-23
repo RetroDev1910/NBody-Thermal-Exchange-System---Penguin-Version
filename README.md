@@ -55,6 +55,7 @@ Red - Destroy Mode
 ## REQUIREMENTS
 
 * C++ 17 or newer
+* GCC or G++
 
 ## BUILD
 
